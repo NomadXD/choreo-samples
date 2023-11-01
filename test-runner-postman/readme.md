@@ -56,7 +56,7 @@ You have successfully created a Test Runner component using Postman buildpack. N
 
 - Newman CLI installed in your local machine.
 
-Run the go test suite using `newman run postman-collection-dir/Book_Listing_API-v1.postman_collection.json` command.
+Run the postman test suite using `newman run postman-collection-dir/Book_Listing_API-v1.postman_collection.json` command.
 
 Once successfully executed, test cases will get executed and the logs will be shown.
 
