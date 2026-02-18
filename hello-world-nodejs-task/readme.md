@@ -3,7 +3,7 @@
 Sample for Hello World task. Print "Hello World"
 
 ### Prerequisites
-1. Fork the repositoy
+1. Fork the repository
 
 ## Getting started
 
@@ -20,7 +20,7 @@ Please refer to the documentation under the [Develop an Application with Buildpa
     | **GitHub Repository** | choreo-samples |
     | **Branch**            | **`main`**                               |
     | **Buildpack**      | NodeJs|
-    | **Select Go Project Directory**       | hello-world-nodejs-task |
+    | **Select NodeJS Project Directory**       | hello-world-nodejs-task |
     | **Select Language Version**              | 16.x.x |
 
 3. Click Create. Once the component creation is complete, you will see the component overview page.

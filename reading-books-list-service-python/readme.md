@@ -17,7 +17,7 @@ Note: The following file paths are relative to the path /python/rest-api/
 
 ## Deploy Application
 
-Please refer to the documentation under the [Develop a REST API](https://wso2.com/choreo/docs/develop-components/develop-services/develop-a-rest-api/#step-1-create-a-service-component-from-a-dockerfile) section to learn how to deploy the application.
+Please refer to the documentation under the [Develop a REST API](https://wso2.com/choreo/docs/develop-components/develop-services/develop-a-service/#step-1-create-a-service-component-from-a-dockerfile) section to learn how to deploy the application.
 
 You can select either Docker or Go as buildpacks. Fill as follow according to selected Buildpack.
 
