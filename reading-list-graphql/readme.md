@@ -13,7 +13,7 @@ Note: The following file paths are relative to the path /ballerina/readling-list
 
 ## Deploy Application
 
-Please refer to the WSO2 Developer Platform documentation under the [Develop a Ballerina GraphQL API](https://wso2.com/choreo/docs/develop-components/develop-services/develop-a-ballerina-graphql-api/) section to learn how to deploy the application.
+Please refer to the documentation under the [Develop a Ballerina GraphQL API](https://wso2.com/choreo/docs/develop-components/develop-services/develop-a-ballerina-graphql-api/) section to learn how to deploy the application.
 
 ### Use the following configuration when creating this component in WSO2 Developer Platform:
 

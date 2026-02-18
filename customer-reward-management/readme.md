@@ -9,7 +9,7 @@ This sample demonstrates a customer reward management system. The users can logi
 ## Try out in WSO2 Developer Platform
 
 1. Login to [WSO2 Developer Platform](https://console.choreo.dev/login).
-2. Join the WSO2 Developer Platform `Demo Organization` from the organization dropdown list.
+2. Join the `Demo Organization` from the organization dropdown list.
 3. Select `Customer Reward Management` project.
 4. Select `Reward Management Web App` component.
 5. Copy the Web App URL and login to the web application.
