@@ -15,7 +15,7 @@ Note: The following file paths are relative to the path /dotnet/greeter
 
 ## Getting started
 
-Please refer to the documentation under the [Develop an Application with Buildpacks](https://wso2.com/choreo/docs/develop-components/deploy-an-application-with-buildpacks/) to learn how to deploy the application.
+Please refer to the documentation under the [Develop an Application with Buildpacks](https://wso2.com/choreo/docs/developer/develop-components/deploy-an-application-with-buildpacks/) to learn how to deploy the application.
 
 1. Select `Service` Card from Component Creation Wizard
 2. Select `.NET` as the buildpack. Fill as follow according to selected Buildpack.
