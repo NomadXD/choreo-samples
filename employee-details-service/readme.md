@@ -6,7 +6,7 @@ This is a simple integration scenario developed using Ballerina. This service al
 ## Deploy in WSO2 Developer Platform
 1. Create a component
      - Fork this repository
-     - Login to [WSO2 Developer Platform](https://wso2.com/choreo/)
+     - Login to [WSO2 Developer Platform](https://console.choreo.dev/login)
      - Navigate to create a `Service` component
      - Provide a name and description for the component
      - Authorize and select the GitHub details

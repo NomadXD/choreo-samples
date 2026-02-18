@@ -9,7 +9,7 @@ This task allows you to retrieve the list of issues and pull requests for a GitH
 ## Deploying the Task in WSO2 Developer Platform
 1. Create a Manual Task Component
     - Fork this repository
-    - Login to [WSO2 Developer Platform](https://wso2.com/choreo/)
+    - Login to [WSO2 Developer Platform](https://console.choreo.dev/login)
     - Navigate to create a `Manual Task` component
     - Provide a name and description for the component
     - Authorize and select the GitHub details

@@ -6,7 +6,7 @@ Make a passthrough call to another endpoint url that needs to be specified dynam
 ## Deploy in WSO2 Developer Platform
 1. Create the greeting service component
      - Fork this repository
-     - Login to [WSO2 Developer Platform](https://wso2.com/choreo/)
+     - Login to [WSO2 Developer Platform](https://console.choreo.dev/login)
      - Select an existing `Project` or create a new one
      - Navigate to create a `Service` component
      - Provide a name and description for the component

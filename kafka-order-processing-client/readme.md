@@ -41,7 +41,7 @@ The Kafka producer in this program reads order objects from the "order" topic an
 ## Deploying in WSO2 Developer Platform
 1. Creating a Event Handler Component
     - Fork this repository
-    - Login to [WSO2 Developer Platform](https://wso2.com/choreo/)
+    - Login to [WSO2 Developer Platform](https://console.choreo.dev/login)
     - Navigate to create a `Event Handler` component
     - Provide a name and description for the component
     - Authorize and select the GitHub details

@@ -6,7 +6,7 @@ This project demonstrates how to implement a scheduled task in WSO2 Micro Integr
 
 1. Create a `Scheduled Task` component
     - Fork this repository.
-    - Login to [WSO2 Developer Platform](https://wso2.com/choreo/).
+    - Login to [WSO2 Developer Platform](https://console.choreo.dev/login).
     - Navigate to create a `Scheduled Task` component.
     - Provide a name and description for the component.
     - Authorize and select the GitHub details.

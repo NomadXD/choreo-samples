@@ -9,7 +9,7 @@ This is a simple example of a containerized RabbitMQ listener.
 
 1. Create an `Event Handler` component
     - Fork this repository
-    - Login to [WSO2 Developer Platform](https://wso2.com/choreo/)
+    - Login to [WSO2 Developer Platform](https://console.choreo.dev/login)
     - Navigate to create a `Event Handler` component
     - Provide a name and description for the component
     - Authorize and select the GitHub details
