@@ -52,7 +52,7 @@ bal run
 Invoke the service using the following cURL command:
 
 ```shell
-curl http://localhost:9090/greeting?name=WSO2 Developer Platform
+curl http://localhost:9090/greeting?name=Choreo
 ```
 
 ## Create the service in WSO2 Developer Platform
