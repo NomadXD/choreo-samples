@@ -3,7 +3,7 @@
 Sample for Hello World service.
 
 ### Prerequisites
-1. Fork the repositoy
+1. Fork the repository
 
 ## Getting started
 

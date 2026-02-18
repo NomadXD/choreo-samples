@@ -3,7 +3,7 @@
 Sample for Hello World task. Print "Hello World" when run dotnet run
 
 ### Prerequisites
-1. Fork the repositoy
+1. Fork the repository
 
 ## Getting started
 

@@ -12,7 +12,7 @@ Note: The following file paths are relative to the path /user-management-service
 | openapi.yaml           | OpenAPI contract of the greeter service. This is needed to publish our service as a managed API. This openapi.yaml file is referenced by the .choreo/endpoints.yaml. |
 
 ### Prerequisites
-1. Fork the repositoy
+1. Fork the repository
 
 ## Deploy Application
 

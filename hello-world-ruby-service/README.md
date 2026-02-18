@@ -3,7 +3,7 @@
 Sample for Hello World service. This API responds with a "Hello World" message when called, making it an excellent starting point for beginners and a handy tool for testing APIs with Ruby.
 
 ### Prerequisites
-1. Fork the repositoy
+1. Fork the repository
 
 ## Getting started
 
