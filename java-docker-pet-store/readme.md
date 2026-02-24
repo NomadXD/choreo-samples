@@ -16,7 +16,7 @@ Note: The following file paths are relative to the path /java/pet-store/
 
 ## Deploy Application
 
-Please refer to the documentation under the [Develop a REST API](https://wso2.com/choreo/docs/develop-components/develop-services/develop-a-service/#step-1-create-a-service-component-from-a-dockerfile) section to learn how to deploy the application.
+Please refer to the documentation under the [Develop a service with Dockerfile](https://wso2.com/choreo/docs/develop-components/develop-services/develop-a-service-with-docker/#step-1-create-a-service-component-from-a-dockerfile) section to learn how to deploy the application.
 
 ## Use the following build config when creating this component in WSO2 Developer Platform:
 
