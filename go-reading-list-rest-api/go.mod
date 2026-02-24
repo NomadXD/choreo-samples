@@ -3,7 +3,7 @@ module github.com/wso2/choreo-sample-apps/go/rest-api
 go 1.22.4
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.5
+	github.com/gofiber/fiber/v2 v2.52.11
 	github.com/gofiber/swagger v0.1.14
 	github.com/google/uuid v1.5.0
 	github.com/sirupsen/logrus v1.9.3
