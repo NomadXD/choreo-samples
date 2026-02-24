@@ -21,7 +21,8 @@ WORKDIR /app
 COPY go.mod go.sum ./
 
 # Get dependancies - will also be cached if we won't change mod/sum
-RUN go mod download
+# Use -mod=mod to allow Go to resolve any missing go.sum entries from transitive deps
+RUN GOFLAGS=-mod=mod go mod download
 
 # Create a new user with UID 10014
 RUN addgroup -g 10014 choreo && \
@@ -34,7 +35,7 @@ COPY . .
 ENV CGO_ENABLED=0 GOOS=linux GOARCH=amd64
 
 # Build the binary
-RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -a -installsuffix cgo -o /go/bin/app -buildvcs=false
+RUN GOFLAGS=-mod=mod CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -a -installsuffix cgo -o /go/bin/app -buildvcs=false
 
 FROM alpine
 RUN apk add --no-cache --upgrade libcrypto3 libssl3
