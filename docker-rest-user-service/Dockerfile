@@ -38,7 +38,7 @@ ENV CGO_ENABLED=0 GOOS=linux GOARCH=amd64
 RUN GOFLAGS=-mod=mod CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -a -installsuffix cgo -o /go/bin/app -buildvcs=false
 
 FROM alpine
-RUN apk add --no-cache --upgrade libcrypto3 libssl3
+RUN apk add --no-cache --upgrade libcrypto3 libssl3 zlib
 COPY --from=build-env /go/bin/app /go/bin/app
 
 USER 10014
